@@ -26,3 +26,4 @@ In conclusion, the dashboard presented a concise summary of the main project tak
 From 3 different task provied by PwC  Switzerland on Forage
 ## Dashboard Preview
 ![](https://user-images.githubusercontent.com/141002227/257815038-0740a517-8277-455a-b74a-6744673e9bf8.jpg)
+![Churn](https://user-images.githubusercontent.com/141002227/257815623-13c2e345-c536-40c2-8ed8-8fbb8bd51d15.jpg)
