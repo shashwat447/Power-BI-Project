@@ -24,4 +24,5 @@ The Diversity and Inclusion dataset provided insights into workplace diversity a
 In conclusion, the dashboard presented a concise summary of the main project takeaways. It showcased actionable recommendations based on the insights gained, guiding the company in making data-driven decisions. Overall, the project contributed to improving company performance, customer retention, and workplace diversity and inclusion efforts, aligning the organization with modern values.
 ### Data Set Used 
 From 3 different task provied by PwC  Switzerland on Forage
-
+## Dashboard Preview
+![](https://user-images.githubusercontent.com/141002227/257815038-0740a517-8277-455a-b74a-6744673e9bf8.jpg)
