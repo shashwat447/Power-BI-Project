@@ -27,3 +27,6 @@ From 3 different task provied by PwC  Switzerland on Forage
 ## Dashboard Preview
 ![](https://user-images.githubusercontent.com/141002227/257815038-0740a517-8277-455a-b74a-6744673e9bf8.jpg)
 ![Churn](https://user-images.githubusercontent.com/141002227/257815623-13c2e345-c536-40c2-8ed8-8fbb8bd51d15.jpg)
+![](https://user-images.githubusercontent.com/141002227/257815666-d05950c9-7901-4ca4-9d12-39a35bd08456.jpg)
+![](https://user-images.githubusercontent.com/141002227/257815708-94e8d4bf-6a41-49c0-8e80-20cd9a04e1f6.jpg)
+
